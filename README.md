@@ -1,2 +1,10 @@
 # Retry-Microstrategy-Failed-Subscriptions
-This python script retries the microstrategy failed subscriptions
+
+##Goal
+The goal is to retry Microstrategy subscriptions that have failed
+
+##How to use it
+
+call
+
+python Main.py
