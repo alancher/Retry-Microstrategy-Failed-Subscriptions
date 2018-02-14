@@ -12,6 +12,8 @@ Then schedule the bat/sh every hour. The script will check on the Microstrategy 
 
 ## Parameters to change
 
-All the ini file
+* All the ini file
 
-In line 38 of FileManager.py change the project name
+* In line 38 of FileManager.py change the project name
+ 
+* executeCommands.bat parameters
